@@ -1,2 +1,2 @@
 # Excel_projects
-Pivot tables , Graph visualisation , Interactive dashboard with excel
+During a supervised project focused on bike sales, I had the privilege of collaborating with the esteemed YouTuber, @Alextheanalyst, to further develop my expertise in data analysis using MS Excel. This experience provided me with a deeper understanding and proficiency in utilizing Excel's powerful features, including pivot tables, data visualizations, and creating interactive dashboards. By applying these techniques to analyze bike sales data, I gained valuable insights and honed my ability to extract meaningful information from complex datasets.
